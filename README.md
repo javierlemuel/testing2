@@ -15,6 +15,9 @@ javier.quinones3@upr.edu
 pass1234
 
 
+******* Initiliaze project by installing Flask, pymysql, and passlib through your terminal ********
+
+
 
 The students should adjust these to fit their convenience. Keep in mind any code that might have to be altered when changing these.
 
